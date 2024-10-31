@@ -1,0 +1,10 @@
+citHeader("To cite flexlsx in publications use:")
+
+bibentry(
+  "Misc",
+  title = "flexlsx: Adding flextables to Excel",
+  author = person("Tobias", "Heidler"),
+  year = "2023",
+  url = "https://github.com/pteridin/flexlsx",
+  note = "Heidler, Tobias (2023). flexlsx: Adding flextables to Excel, https://github.com/pteridin/flexlsx"
+)
